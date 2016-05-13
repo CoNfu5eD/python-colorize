@@ -18,4 +18,4 @@ Status | What
 
 ## License
 
-This is under [GNU LGPLv2.1](https://github.com/CoNfu5eD/python-colorize/blob/master/LICENSE) so you can mostly do what every you want to do with it..
+This is under [GNU LGPLv2.1](https://github.com/CoNfu5eD/python-colorize/blob/master/LICENSE) so you can mostly do what ever you want to do with it..
